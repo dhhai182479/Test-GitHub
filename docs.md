@@ -8,10 +8,12 @@
 
 - git pull: Đồng bộ từ trên mạng về máy
 
-- git add và git add . : Thêm vào repository trong máy
-- git commnit
+- git add và git add . : Thêm vào repository trong máy nhưng chưa cam kết.
+- git commnit -m 'status'
 
-- git push: đồng bộ từ máy lên repository trên mạng
+- git remote add origin link_github: Đồng bộ với repository trên mạng
+
+- git push / git push -u origin master: Đẩy lên mạng
 
 - git log, git status: check xem trạng thái file 
 
