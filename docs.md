@@ -18,3 +18,4 @@
 - git log, git status: check xem trạng thái file 
 
 
+- git pull: đồng bộ từ trên github về máy khi có thay đổi trên đó
