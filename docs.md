@@ -24,3 +24,5 @@
 - git branch name: tạo branch 
  =>> git checkout -b name: tự tạo branch và checkout luôn
 - git checkout name: chuyển sang branch name
+
+- git merge branch_name : Chuyển file từ branch_name về master
