@@ -23,4 +23,4 @@
 ## Git Nâng cao
 - git branch name: tạo branch 
  =>> git checkout -b name: tự tạo branch và checkout luôn
-- git checkout name: chuyển code lên branch 
+- git checkout name: chuyển sang branch name
